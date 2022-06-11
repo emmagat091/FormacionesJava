@@ -9,14 +9,14 @@ número de sucursal, dirección y ciudad. para calcular el precio que cuesta env
 en cuenta el precio del paquete y la prioridad , sabiendo que se cobra un dólar por KG, 10 dólares más si la prioridad es alta
 y 20 si es express. Cada paquete enviado tendrá un número de referencia y el DNI de la persona que lo envía.
 
+Cree un programa que le permita determinar por medio del menú de opciones, que tarea desea realizar.
 
   -Menu de opciones : 
-     *System.out.println("\t.:Menú Opciones:. ");
-            1. Crear una nueva sucursal
-            2. Enviar paquete
-            3. Consultar sucursal
-            4. Consultar paquete
-            5. Mostrar todas las sucursales
-            6. Mostrar todos los paquetes
-            7. Salir
+     1. Crear una nueva sucursal
+     2. Enviar paquete
+     3. Consultar sucursal
+     4. Consultar paquete
+     5. Mostrar todas las sucursales
+     6. Mostrar todos los paquetes
+     7. Salir
      
