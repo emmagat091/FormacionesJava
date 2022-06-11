@@ -1,0 +1,11 @@
+Ejercicio 04) Cuentas bancarias 
+
+
+POO_Ejercicio04
+
+Nivel: Básico.
+
+Hacer un programa sencillo para realizar gestiones en un banco para lo cual tendremos 2 clases(cliente y cuenta).
+Considerar que un cliente se caracteriza por su nombre, apellido y DNI.
+El cliente puede consultar saldo,como ingresar y retirar dinero de sus cuentas. Además cada cuenta
+se caracteriza por un número de cuenta y un saldo.

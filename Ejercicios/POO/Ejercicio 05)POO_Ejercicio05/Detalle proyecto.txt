@@ -1,0 +1,22 @@
+Ejercicio 05)
+
+POO_Ejercicio05 - Envio de paquetes por sucursales.
+
+Nivel: Básico-Intermedio .
+
+Una empresa de envío de paquetes tiene varias sucursales en todo el país . cada sucursal esta definida por su
+número de sucursal, dirección y ciudad. para calcular el precio que cuesta enviar cada paquete, las sucursales tienen
+en cuenta el precio del paquete y la prioridad , sabiendo que se cobra un dólar por KG, 10 dólares más si la prioridad es alta
+y 20 si es express. Cada paquete enviado tendrá un número de referencia y el DNI de la persona que lo envía.
+
+
+  -Menu de opciones : 
+     *System.out.println("\t.:Menú Opciones:. ");
+            1. Crear una nueva sucursal
+            2. Enviar paquete
+            3. Consultar sucursal
+            4. Consultar paquete
+            5. Mostrar todas las sucursales
+            6. Mostrar todos los paquetes
+            7. Salir
+     
